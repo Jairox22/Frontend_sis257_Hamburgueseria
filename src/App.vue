@@ -7,7 +7,6 @@
 // Import global scripts
 import '@/assets/lib/easing/easing.min.js'
 import '@/assets/lib/owlcarousel/owl.carousel.min.js'
-import '@/assets/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js'
 import '@/assets/js/main.js'
 </script>
 
